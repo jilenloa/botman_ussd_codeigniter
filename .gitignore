@@ -1,0 +1,7 @@
+vendor
+application/logs/*.php
+composer.lock
+.idea
+user_guide
+!application/cache/index.html
+application/cache/*
