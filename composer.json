@@ -11,7 +11,7 @@
         "source": "https://github.com/bcit-ci/CodeIgniter"
     },
     "require": {
-        "php": ">=7.0",
+        "php": ">=7.1",
         "botman/botman": "^2.5"
     },
     "suggest": {
